@@ -19,8 +19,8 @@ This repository contains MATLAB implementations and experimental results for var
 
 - **NF (Normal Forwarding)**: Traditional shortest-path routing
 - **RF (Random Forwarding)**: Topology-desynchronized approaches
-  - RF-CF (Counter-Flow)
-  - RF-LF (Lateral-Flow)
+  - RF-CF (Counter-facing)
+  - RF-LF (Lateral-facing)
 - **LFA (Loop-Free Alternates)**: Standard protection mechanism
 
 ## Project Structure
