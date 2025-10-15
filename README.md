@@ -24,12 +24,12 @@ This repository contains MATLAB implementations and experimental results for var
 - **LFA (Loop-Free Alternates)**: Standard protection mechanism
 
 ## Project Structure
-Topology-Desynchronized-Forwarding/
-├── src/ # Source code implementations
-├── results/ # Experimental results and analysis
-│ ├── bond_percolation/ # Link failure experiments
-│ └── site_percolation/ # Node failure experiments
-└── examples/ # Usage examples and configurations
+   Topology-Desynchronized-Forwarding/
+   ├── src/ # Source code implementations
+   ├── results/ # Experimental results and analysis
+   │ ├── bond_percolation/ # Link failure experiments
+   │ └── site_percolation/ # Node failure experiments
+   └── examples/ # Usage examples and configurations
 
 ## 📋 Prerequisites
 
@@ -55,9 +55,9 @@ Topology-Desynchronized-Forwarding/
    Test_LFA_link.m   % Loop-free alternates
 
 2. **Analyze Results**:
-% Navigate to results directory
-cd ../results/bond_percolation/
-Result_show_link_loss.m    % Packet loss analysis
-Result_show_link_RF.m      % RF performance analysis
+   % Navigate to results directory
+   cd ../results/bond_percolation/
+   Result_show_link_loss.m    % Packet loss analysis
+   Result_show_link_RF.m      % RF performance analysis
 
 
