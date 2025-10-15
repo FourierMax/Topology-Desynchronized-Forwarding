@@ -1,0 +1,29 @@
+% Network topology
+rows = 16; cols = 16;        % Torus dimensions
+interorbit_colindex = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];     %interorbit links
+
+
+% Simulation parameters  
+sim_time = 9;                % Total simulation time
+packet_interval = 1;         % Packet generation interval
+hop_limit = 20;              % Maximum hop count
+
+% Failure parameters
+fault_probability = 0.001;   % Failure probability
+fault_mode = 'random';       % 'random' or 'file'
+
+% Reverse flow strategies
+MPC = 1;                     % 1: Enable Reverse Flow，0：Disable Reverse Flow
+Opposite_side_FIRST = 0;     % 0: RF-CF, 1: RF-LF
+
+%Visulization and Dairy
+VISULIZATION = 0;     % Enable (1) or disable (0) network visualization
+DIARYON = 1;             % Enable (1) or disable (0) logging to file
+
+
+
+
+
+
+
+

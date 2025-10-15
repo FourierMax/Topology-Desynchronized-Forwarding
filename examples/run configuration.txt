@@ -1,0 +1,7 @@
+% RF-CF (Counter-facing priority) under link failures
+Test_RF_link;  % Set Opposite_side_FIRST = 0 in file
+
+% RF-LF (Lateral-facing priority) under link failures
+% Modify Test_RF_link.m: set Opposite_side_FIRST = 1
+
+%Change the paramenters listed in file "Key Parameters Illustration.txt" to simulate different results.

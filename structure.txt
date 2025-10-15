@@ -1,0 +1,37 @@
+Topology-Desynchronized-Forwarding/
+├── 📄 README.md
+├── 📄 citation.txt
+├── 📄 .gitignore
+├── 📄 CITATION.cff
+├── 📄 structure.txt
+├── 📁 src/
+│   ├── calculate_routing_table.m
+│   ├── calculate_LFA_routing_table.m
+│   ├── creat_topology_link.m
+│   ├── process_packet.m
+│   ├── process_packet_RF.m
+│   ├── process_packet_LFA.m
+│   ├── Test_NF_link.m
+│   ├── Test_NF_node.m
+│   ├── Test_RF_link.m
+│   ├── Test_RF_node.m
+│   ├── Test_LFA_link.m
+│   ├── Test_LFA_node.m
+│   ├── validate_topology.m
+│   ├── update_visualization.m
+│   ├── insertEvent.m
+│   ├── popEvent.m
+│   └── getEventPriority.m
+├── 📁 results/   
+│   ├── Readme_results.md                 
+│   └── bond_percolation/          
+│       ├── Result_show_link_loss.m
+│       ├── Result_show_link_RF.m
+│       └── Result_show_link_topo16.m
+│   └── site_percolation/          
+│       ├── Result_show_node_loss.m
+│       ├── Result_show_node_RF.m
+│       └── Result_show_node_topo16.m
+└── 📁 examples/
+    ├── run configuration.txt
+    └── Key Parameters Illustration.txt

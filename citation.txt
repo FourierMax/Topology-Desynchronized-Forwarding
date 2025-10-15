@@ -1,0 +1,7 @@
+@article{luan2025topology,
+  title={Topology-desynchronized Forwarding via Symmetry in Toroidal Networks},
+  author={Luan, Shenshen and others},
+  journal={Nature Communications},
+  year={2025},
+  publisher={Nature Publishing Group}
+}

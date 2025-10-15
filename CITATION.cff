@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Topology-desynchronized Forwarding via Symmetry in Toroidal Networks"
+authors:
+  - family-names: Luan
+    given-names: Shenshen
+    affiliation: Beihang University
+    email: lshenshen@buaa.edu.cn
+version: 1.0.0
+doi: 10.1038/s41467-025-XXXXX-X
+date-released: 2025-10-10
+url: https://github.com/your-username/Topology-Desynchronized-Forwarding
+license: MIT
+repository-code: https://github.com/your-username/Topology-Desynchronized-Forwarding

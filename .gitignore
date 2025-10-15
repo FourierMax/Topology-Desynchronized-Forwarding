@@ -1,0 +1,30 @@
+# MATLAB临时文件
+*.m~
+*.asv
+*.autosave
+
+# 编译文件
+*.mex*
+*.p
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+*~
+*.tmp
+*.bak
+
+
+# 可选：大型数据文件（如果需要上传数据则注释掉）
+# results/*.mat
+# results/bond_percolation/*.mat  
+# results/site_percolation/*.mat
+
+# 确保代码文件被包含
+!*.m
+!src/
+!results/
+!examples/
