@@ -62,21 +62,4 @@ cd ../results/bond_percolation/
 Result_show_link_loss.m    % Packet loss analysis
 Result_show_link_RF.m      % RF performance analysis
 
-## 📊 Algorithms
-Algorithm	Type	Description
-NF	Baseline	Traditional shortest-path forwarding
-RF-CF	Proposed	Counter-facing reverse flow
-RF-LF	Proposed	Lateral-facing reverse flow
-LFA	Comparative	Loop-Free Alternate routing
-
-## 📈 Results
-The implementation reproduces all experimental results from the paper, including:
-
-Packet loss rate analysis under varying failure probabilities
-
-Maximum hop count comparisons
-
-RF forwarding ratio analysis
-
-Performance improvements over baseline approaches
 
