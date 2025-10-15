@@ -1,13 +1,13 @@
 % Description: This code implements a Topology-desynchronized Forwarding via Symmetry in Toroidal Networks.
 % It simulates packet transmission, link fault handling, and routing in a torus network topology, with statistical analysis of performance metrics.
-% Author: [Shenshen Luan]
-% Affiliation: [Beihang University]
+% Author: []
+% Affiliation: []
 % Date: [2025/10/10]
 % License: MIT License
 % 
 % MIT License
 % 
-% Copyright (c) [2025] [Shenshen Luan/Beihang University]
+% Copyright (c) [2025] [Name/Affiliation]
 % 
 % Permission is hereby granted, free of charge, to any person obtaining a copy
 % of this software and associated documentation files (the "Software"), to deal
