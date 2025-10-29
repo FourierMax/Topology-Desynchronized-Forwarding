@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
-This repository contains the official implementation of the paper "Topology-desynchronized Forwarding via Symmetry in Toroidal Networks" . The code provides simulation frameworks for evaluating reverse-flow forwarding mechanisms in torus topologies.
+This repository contains the official implementation of the paper "Symmetry-Driven Asynchronous Forwarding for Reliable Distributed Coordination in Toroidal Networks" . The code provides simulation frameworks for evaluating reverse-flow forwarding mechanisms in torus topologies.
 
 ## 🌟 Overview
 
