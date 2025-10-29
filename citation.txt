@@ -1,7 +1,0 @@
-@article{2025topology,
-  title={Topology-desynchronized Forwarding via Symmetry in Toroidal Networks},
-  author={},
-  journal={},
-  year={2025},
-  publisher={}
-}
